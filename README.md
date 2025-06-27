@@ -16,7 +16,7 @@ emotions in each of the films and the total sum of emotions in each of them.
 ### Files in this repository
 
 There are five text files in this repository and a Jupyter notebook file.
-The four input text files are star_wars_4.txt, star_wars_5.txt, star_wars_6.txt (which have the scripts of  "A New Hope", "The Empire Strikes Back" and "Return of the Jedi" respectively) and nrc_emotion_values.txt (the NRC Emotion Lexicon file). 
+The four input text files are sw4.txt, sw5.txt, sw6.txt (which have the scripts of  "A New Hope", "The Empire Strikes Back" and "Return of the Jedi" respectively) and nrc_emotions.txt (the NRC Emotion Lexicon file). 
 The Jupyter notebook sta_wars_code.ipynb contains the code for this program. 
 The remaining text file is outputs.txt which contains the result produced by the notebook. 
 
