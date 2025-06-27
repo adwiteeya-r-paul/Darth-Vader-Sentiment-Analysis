@@ -1,0 +1,58 @@
+Requirement already satisfied: nltk in /usr/local/lib/python3.11/dist-packages (3.9.1)
+Requirement already satisfied: click in /usr/local/lib/python3.11/dist-packages (from nltk) (8.2.1)
+Requirement already satisfied: joblib in /usr/local/lib/python3.11/dist-packages (from nltk) (1.5.1)
+Requirement already satisfied: regex>=2021.8.3 in /usr/local/lib/python3.11/dist-packages (from nltk) (2024.11.6)
+Requirement already satisfied: tqdm in /usr/local/lib/python3.11/dist-packages (from nltk) (4.67.1)
+[nltk_data] Downloading package punkt to /root/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+Drive already mounted at /content/drive; to attempt to forcibly remount, call drive.mount("/content/drive", force_remount=True).
+
+
+-------sw4----------
+
+
+anger 9
+anticipation 18
+disgust 3
+fear 7
+joy 5
+negative 15
+positive 21
+sadness 6
+surprise 3
+trust 0
+TOTAL SCORE 87
+
+
+-------sw5----------
+
+
+anger 8
+anticipation 25
+disgust 6
+fear 13
+joy 15
+negative 20
+positive 35
+sadness 10
+surprise 8
+trust 0
+TOTAL SCORE 140
+
+
+-------sw6----------
+
+
+anger 6
+anticipation 8
+disgust 4
+fear 9
+joy 7
+negative 13
+positive 18
+sadness 11
+surprise 4
+trust 0
+TOTAL SCORE 80
+
+
